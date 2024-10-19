@@ -2,7 +2,7 @@ Space Events and News Website
 Project Overview
 This project is a full-stack web application that provides users with the latest news, blogs, and events related to space. Users can read and write blogs, explore space-related courses, and stay updated on significant events in the space industry. The backend is built using the MERN stack (MongoDB, Express, React, and Node.js).
 
-Features
+Features 
 User Authentication: Secure user registration and login with JWT-based authentication.
 Blog System: Users can read, create, update, and delete blogs about space-related topics.
 Space Events: Display and manage important space-related events.
