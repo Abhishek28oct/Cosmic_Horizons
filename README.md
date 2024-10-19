@@ -8,7 +8,7 @@ Blog System: Users can read, create, update, and delete blogs about space-relate
 Space Events: Display and manage important space-related events.
 Space Courses: Explore and enroll in space-related courses.
 User Roles: Different access levels for regular users and admins.
-Technologies Used
+Technologies Used 
 Backend:
 Node.js: JavaScript runtime for building the server-side of the application.
 Express.js: Server framework to create API routes and handle HTTP requests.
